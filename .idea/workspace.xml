@@ -13,6 +13,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f745cd71-b3f2-4882-ac0b-ddbf4549743f" />
+        <option name="url" value="https://github.com/priyanshugoel001/githubCommandsLearning.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2c8xta3yrTCVhI4AnCen7WZcMhE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
